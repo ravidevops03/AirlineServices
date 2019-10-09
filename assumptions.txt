@@ -1,0 +1,20 @@
+========== Assumptions =====================
+
+1. The error messages used are dummy and will not be shown to the user.
+
+2. Filter of Flight details from mock Airlines Service response is based on origin and destination airport parameter.
+
+3. If any expection occers it will be automicaticlly handle in API controller.
+
+4. There can still be lot of junit test cases written. In the interest of time, I wrote only few.
+
+5. Last but not least, there are still improvement required in Validation and Exception Handling
+   which can be future enhancement.
+
+
+For any queries contact,
+
+Ravi Ranjan Kumar
+Mob: 0894001206
+Emmail: ravisingh03@gmail.com
+
